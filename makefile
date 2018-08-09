@@ -1,4 +1,4 @@
-# makefile for BagTester using ArrayBag
+# makefile for Hangperson
 
 CXX = g++
 
